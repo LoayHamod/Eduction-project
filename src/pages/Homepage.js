@@ -17,7 +17,7 @@ const Homepage = () => {
                         <StyledTitle>
                             Welcome to
                             <br />
-                            OLAsia Management
+                            School Management
                             <br />
                             System
                         </StyledTitle>
